@@ -2,7 +2,7 @@
 
 # Project title
 
-A short description of what this project does and who its for.
+Unit converstion tool
 
 ## installation
 
@@ -15,4 +15,4 @@ Examples on how to use the project
 ### Authors
 
 - Names
-- Cameron Green & Joseph Filippazzo
+- Cameron Green, Joseph Filippazzo & Micheal Zito
