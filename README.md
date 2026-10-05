@@ -2,7 +2,7 @@
 
 # Project title
 
-Unit converstion tool
+Unit conversion tool
 
 ## installation
 
